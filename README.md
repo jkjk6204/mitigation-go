@@ -1,2 +1,2 @@
-firewall_script is made with python
-ddos_detector is made with goling 
+Mitigate firewall_script is made with python
+Mitigate ddos_detector is made with goling 
