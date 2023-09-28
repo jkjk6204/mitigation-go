@@ -1,5 +1,3 @@
-# mitigation-go
-this mitigation script py
 The provided scripts, DDoSDefender.go and DDoSDefender.py, are basic rate limiting implementations. They can be useful for simple scenarios where you want to limit the rate at which certain actions or requests can occur. However, whether these scripts are "good" or suitable for your specific use case depends on several factors:
 
 Use Case: Rate limiting is a common technique for preventing abuse or protecting resources from excessive requests. You should evaluate whether rate limiting is the right approach for your specific use case.
